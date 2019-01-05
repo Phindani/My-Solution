@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WaterWatchXamarinApp.Views.TabsPage">
+  <!--Pages can be added as references or inline-->
+    <ContentPage Title="Consume" >
+        <StackLayout>
+            <Label Text="Water Resource Type" FontSize="Medium"  HorizontalTextAlignment="Center" HorizontalOptions="FillAndExpand" Margin="5" />
+            
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="90"/>
+                    <RowDefinition Height="90"/>
+                    <RowDefinition Height="90"/>
+                    <RowDefinition Height="90"/>
+                    <RowDefinition Height="90"/>
+                    <RowDefinition Height="90"/>
+                    <RowDefinition Height="90"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="100"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+                <Image Source="handWashing.jpg" Grid.Row="0" Grid.Column="0" />
+                <Label Grid.Row="0" VerticalOptions="Center" Grid.Column="1" Text="Wash Hands" />
+                <Label Grid.Row="0" VerticalOptions="Center" Grid.Column="2" Text="2.1 Litres" />
+
+                <Image Source="flushhalf.jpg" Grid.Row="1" Grid.Column="0" />
+                <Label Grid.Row="1" VerticalOptions="Center" Grid.Column="1" Text="Flush Toilet - Half" />
+                <Label Grid.Row="1" VerticalOptions="Center" Grid.Column="2" Text="3 Litres" />
+
+                <Image Source="fullflush.jpg" Grid.Row="2" Grid.Column="0" />
+                <Label Grid.Row="2" VerticalOptions="Center" Grid.Column="1" Text="Flush Toilet - Full" />
+                <Label Grid.Row="2" VerticalOptions="Center" Grid.Column="2" Text="6 Litres" />
+
+                <Image Source="shower.gif" Grid.Row="3" Grid.Column="0" />
+                <Label Grid.Row="3" VerticalOptions="Center" Grid.Column="1" Text="Have 5 minutes Shower" />
+                <Label Grid.Row="3" VerticalOptions="Center" Grid.Column="2" Text="45 Litres" />
+
+                <Image Source="bath.jpg" Grid.Row="4" Grid.Column="0" />
+                <Label Grid.Row="4" VerticalOptions="Center" Grid.Column="1" Text="Have Bath" />
+                <Label Grid.Row="4" VerticalOptions="Center" Grid.Column="2" Text="180 Liters" />
+
+                <Image Source="garden.jpg" Grid.Row="5" Grid.Column="0" />
+                <Label Grid.Row="5" VerticalOptions="Center" Grid.Column="1" Text="Hand Water Garden for 15 minutes" />
+                <Label Grid.Row="5" VerticalOptions="Center" Grid.Column="2" Text="15 Liters" />
+
+                <Image Source="handwashcar.jpg" Grid.Row="6" Grid.Column="0" />
+                <Label Grid.Row="6" VerticalOptions="Center" Grid.Column="1" Text="Hand Wash car" />
+                <Label Grid.Row="6" VerticalOptions="Center" Grid.Column="2" Text="100 Liters" />
+
+            </Grid>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage Title="Report Back">
+        <StackLayout>
+            <Label Text="You are on Report back tab"  HorizontalTextAlignment="Center" HorizontalOptions="FillAndExpand" Margin="5" />
+            <BoxView Color="Silver" VerticalOptions="FillAndExpand" />
+        </StackLayout>
+    </ContentPage>
+
+</TabbedPage>

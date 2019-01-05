@@ -1,0 +1,30 @@
+C:\Users\Dell\source\WaterWatchXamarinApp\WaterWatchXamarinApp\bin\Debug\netstandard2.0\WaterWatchXamarinApp.deps.json
+C:\Users\Dell\source\WaterWatchXamarinApp\WaterWatchXamarinApp\bin\Debug\netstandard2.0\WaterWatchXamarinApp.dll
+C:\Users\Dell\source\WaterWatchXamarinApp\WaterWatchXamarinApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Dell\source\WaterWatchXamarinApp\WaterWatchXamarinApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Dell\source\WaterWatchXamarinApp\WaterWatchXamarinApp\obj\Debug\netstandard2.0\Views\RegisterPage.xaml.g.cs
+C:\Users\Dell\source\WaterWatchXamarinApp\WaterWatchXamarinApp\obj\Debug\netstandard2.0\WaterWatchXamarinApp.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\WaterWatchXamarinApp\WaterWatchXamarinApp\obj\Debug\netstandard2.0\WaterWatchXamarinApp.AssemblyInfoInputs.cache
+C:\Users\Dell\source\WaterWatchXamarinApp\WaterWatchXamarinApp\obj\Debug\netstandard2.0\WaterWatchXamarinApp.AssemblyInfo.cs
+C:\Users\Dell\source\WaterWatchXamarinApp\WaterWatchXamarinApp\bin\Debug\netstandard2.0\WaterWatchXamarinApp.pdb
+C:\Users\Dell\source\WaterWatchXamarinApp\WaterWatchXamarinApp\obj\Debug\netstandard2.0\WaterWatchXamarinApp.dll
+C:\Users\Dell\source\WaterWatchXamarinApp\WaterWatchXamarinApp\obj\Debug\netstandard2.0\WaterWatchXamarinApp.pdb
+C:\Users\Dell\source\WaterWatchXamarinApp\WaterWatchXamarinApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Dell\source\WaterWatchXamarinApp\WaterWatchXamarinApp\obj\Debug\netstandard2.0\WaterWatchXamarinApp.csprojAssemblyReference.cache
+C:\Users\Dell\source\WaterWatchXamarinApp\WaterWatchXamarinApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Dell\source\WaterWatchXamarinApp\WaterWatchXamarinApp\obj\Debug\netstandard2.0\Views\TabsPage.xaml.g.cs
+C:\Users\Dell\Desktop\My Solution\source\WaterWatchXamarinApp\WaterWatchXamarinApp\bin\Debug\netstandard2.0\WaterWatchXamarinApp.deps.json
+C:\Users\Dell\Desktop\My Solution\source\WaterWatchXamarinApp\WaterWatchXamarinApp\bin\Debug\netstandard2.0\WaterWatchXamarinApp.dll
+C:\Users\Dell\Desktop\My Solution\source\WaterWatchXamarinApp\WaterWatchXamarinApp\bin\Debug\netstandard2.0\WaterWatchXamarinApp.pdb
+C:\Users\Dell\Desktop\My Solution\source\WaterWatchXamarinApp\WaterWatchXamarinApp\obj\Debug\netstandard2.0\WaterWatchXamarinApp.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\My Solution\source\WaterWatchXamarinApp\WaterWatchXamarinApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Dell\Desktop\My Solution\source\WaterWatchXamarinApp\WaterWatchXamarinApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Dell\Desktop\My Solution\source\WaterWatchXamarinApp\WaterWatchXamarinApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Dell\Desktop\My Solution\source\WaterWatchXamarinApp\WaterWatchXamarinApp\obj\Debug\netstandard2.0\Views\RegisterPage.xaml.g.cs
+C:\Users\Dell\Desktop\My Solution\source\WaterWatchXamarinApp\WaterWatchXamarinApp\obj\Debug\netstandard2.0\Views\TabsPage.xaml.g.cs
+C:\Users\Dell\Desktop\My Solution\source\WaterWatchXamarinApp\WaterWatchXamarinApp\obj\Debug\netstandard2.0\WaterWatchXamarinApp.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\My Solution\source\WaterWatchXamarinApp\WaterWatchXamarinApp\obj\Debug\netstandard2.0\WaterWatchXamarinApp.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\My Solution\source\WaterWatchXamarinApp\WaterWatchXamarinApp\obj\Debug\netstandard2.0\WaterWatchXamarinApp.AssemblyInfo.cs
+C:\Users\Dell\Desktop\My Solution\source\WaterWatchXamarinApp\WaterWatchXamarinApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Dell\Desktop\My Solution\source\WaterWatchXamarinApp\WaterWatchXamarinApp\obj\Debug\netstandard2.0\WaterWatchXamarinApp.dll
+C:\Users\Dell\Desktop\My Solution\source\WaterWatchXamarinApp\WaterWatchXamarinApp\obj\Debug\netstandard2.0\WaterWatchXamarinApp.pdb

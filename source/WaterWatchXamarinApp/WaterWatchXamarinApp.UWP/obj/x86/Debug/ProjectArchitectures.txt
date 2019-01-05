@@ -1,0 +1,1 @@
+C:\Users\Dell\Desktop\My Solution\source\WaterWatchXamarinApp\WaterWatchXamarinApp.UWP\WaterWatchXamarinApp.UWP.csproj;x86
